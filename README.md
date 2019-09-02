@@ -1,4 +1,2 @@
 # hello-world
-hello people
-I like working on java and c++ projects.
-I am a beginner
+I am a beginner and I would like to work on projects related to java and c++.
